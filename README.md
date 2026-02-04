@@ -239,10 +239,11 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Mohammed Daniyalm**
+**Mohammed Daniyalm** ⭐
 
 - GitHub: [@MOHAMMEDDANIYALM](https://github.com/MOHAMMEDDANIYALM)
 - Repository: [terraform-strapi-infra](https://github.com/MOHAMMEDDANIYALM/terraform-strapi-infra)
+- Email: Connect on GitHub
 
 ## 🤝 Contributing
 
